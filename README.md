@@ -5,7 +5,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/QuantumGeorge/)
 ___
 [![Codewars](https://www.codewars.com/users/QuantumGeorge/badges/small)](https://www.codewars.com/users/QuantumGeorge)
-
+___
 
 A motivated and dedicated aspiring software engineer with a strong commitment to technology. Recently completed the Makers Academy Software Development bootcamp, gaining hands-on experience in test-driven development, pair programming, and agile methodologies. Passionate about staying current with industry advancements and continuously expanding my skillset.
 
