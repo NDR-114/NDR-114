@@ -1,10 +1,9 @@
 ## Hi I'm George 👋
 
 ### I'm and aspiring software and Robotics & AI enthusiast | 🤖 🧠
-
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ge0rge/)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/QuantumGeorge/)
-</br>
+___
 [![Codewars](https://www.codewars.com/users/QuantumGeorge/badges/small)](https://www.codewars.com/users/QuantumGeorge)
 
 
