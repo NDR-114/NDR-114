@@ -10,6 +10,7 @@
 
 <details open>
     <summary> Education 🎓</summary>
+</br>
 
 **[Makers Academy (Foundational)](https://makers.tech/learn/software-engineer-bootcamp)** | September '23 Cohort
 >- Gained practical experience in test-driven development (TDD) using testing libraries like pytest and playwright.
@@ -19,6 +20,7 @@
 
 <details open>
     <summary>Projects 🛠️</summary>
+</br>
 
 **[Bowie BNB (Group Project)](https://github.com/NDR-114/bowie-bnb-project) 🛏️**
 >- Designed and implemented a web application using Python, Flask, Jinja2, PostgreSQL, and Tailwind CSS.
@@ -40,6 +42,7 @@
 
 <details open>
     <summary>Certifications 🥇</summary>
+</br>
 
 - **Google Cloud (Coursera)**: [Introduction to Large Language Models (2024)](https://www.coursera.org/account/accomplishments/verify/9P7HGH5UYREM)
 - **Google (Coursera)**: [Foundations of Cybersecurity (2024)](https://www.coursera.org/account/accomplishments/verify/ESEWAJP8BVR5)
