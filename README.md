@@ -15,9 +15,9 @@ A motivated and dedicated aspiring software engineer with a strong commitment to
 >- Actively employed agile methodologies, including daily standups and collaborative project work.
 >- Developed a full-stack web application using Python, Flask, PostgreSQL, and Tailwind CSS.
 
-### Projects
+### Projects 🛠️
 
-**[Bowie BNB (Group Project)](https://github.com/NDR-114/bowie-bnb-project) 🛠️**
+**[Bowie BNB (Group Project)](https://github.com/NDR-114/bowie-bnb-project) 🛏️ **
 >- Designed and implemented a web application using Python, Flask, Jinja2, PostgreSQL, and Tailwind CSS.
 >- Built a relational database with PostgreSQL to manage dynamic data like listings and bookings.
 >- Integrated Jinja2 templating to render dynamic content on web pages.
