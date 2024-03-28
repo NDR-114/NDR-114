@@ -1,9 +1,7 @@
-## Hi, I'm George 👋
+## Hi, I'm George 👋  [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ge0rge/)[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/QuantumGeorge/)
 
 ### I'm an aspiring software developer with a love for Automation, Generative AI & Robotics | 🧠 🤖
 
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ge0rge/)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/QuantumGeorge/)
 
 
 ``` A motivated and dedicated aspiring software engineer with a strong commitment to technology. Recently completed the Makers Academy Software Development bootcamp, gaining hands-on experience in test-driven development, pair programming, and agile methodologies. Passionate about staying current with industry advancements and continuously expanding my skillset. ```
@@ -52,7 +50,9 @@
 
 **Codewars**:  [![Codewars](https://www.codewars.com/users/QuantumGeorge/badges/small)](https://www.codewars.com/users/QuantumGeorge)
 </details>
+</br>
 
+---
 
 <details open>
     <summary>Skills I Have</summary>
