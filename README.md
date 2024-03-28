@@ -8,14 +8,17 @@
 
 A motivated and dedicated aspiring software engineer with a strong commitment to technology. Recently completed the Makers Academy Software Development bootcamp, gaining hands-on experience in test-driven development, pair programming, and agile methodologies. Passionate about staying current with industry advancements and continuously expanding my skillset.
 
-### Education 🎓
+<details open>
+    <summary> Education 🎓</summary>
 
 **[Makers Academy (Foundational)](https://makers.tech/learn/software-engineer-bootcamp)** | September '23 Cohort
 >- Gained practical experience in test-driven development (TDD) using testing libraries like pytest and playwright.
 >- Actively employed agile methodologies, including daily standups and collaborative project work.
 >- Developed a full-stack web application using Python, Flask, PostgreSQL, and Tailwind CSS.
+</details>
 
-### Projects 🛠️
+<details open>
+    <summary>Projects 🛠️</summary>
 
 **[Bowie BNB (Group Project)](https://github.com/NDR-114/bowie-bnb-project) 🛏️**
 >- Designed and implemented a web application using Python, Flask, Jinja2, PostgreSQL, and Tailwind CSS.
@@ -33,14 +36,19 @@ A motivated and dedicated aspiring software engineer with a strong commitment to
 >- Integrated with a public API using tools like Postman.
 >- Utilized CSS, Tailwind CSS, and Flowbite components for a user-friendly experience.
 >- Implemented React Hooks for features like refresh functionality.
+</details>
 
-### Certifications 🥇
+<details open>
+    <summary>Certifications 🥇</summary>
 
 - **Google Cloud (Coursera)**: [Introduction to Large Language Models (2024)](https://www.coursera.org/account/accomplishments/verify/9P7HGH5UYREM)
 - **Google (Coursera)**: [Foundations of Cybersecurity (2024)](https://www.coursera.org/account/accomplishments/verify/ESEWAJP8BVR5)
 - **Microsoft**: [Azure AZ900 Fundamentals (2021)](https://learn.microsoft.com/api/credentials/share/en-us/GB-3735/291D4A9BCDCC7B1E?sharingId)
+</details>
 
-### Accomplishments 🏆
+<details open>
+    <summary>Accomplishments 🏆</summary>
+    
 **Codewars**:  [![Codewars](https://www.codewars.com/users/QuantumGeorge/badges/small)](https://www.codewars.com/users/QuantumGeorge)
-
+</details>
 
