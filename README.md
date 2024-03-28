@@ -8,7 +8,7 @@
 
 A motivated and dedicated aspiring software engineer with a strong commitment to technology. Recently completed the Makers Academy Software Development bootcamp, gaining hands-on experience in test-driven development, pair programming, and agile methodologies. Passionate about staying current with industry advancements and continuously expanding my skillset.
 
-### Education
+### Education 🎓
 
 **[Makers Academy (Foundational)](https://makers.tech/learn/software-engineer-bootcamp)** | September '23 Cohort
 >- Gained practical experience in test-driven development (TDD) using testing libraries like pytest and playwright.
