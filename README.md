@@ -1,6 +1,6 @@
 ## Hi, I'm George 👋
 
-### I'm an aspiring software developer and a Robotics & AI enthusiast |  🤖 🧠
+### I'm an aspiring software developer with a love for Automation, Generative AI & Robotics | 🧠 🤖
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ge0rge/)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/QuantumGeorge/)
