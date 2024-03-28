@@ -48,12 +48,15 @@
 
 <details open>
     <summary>Accomplishments 🏆</summary>
+</br>
 
 **Codewars**:  [![Codewars](https://www.codewars.com/users/QuantumGeorge/badges/small)](https://www.codewars.com/users/QuantumGeorge)
 </details>
 
 
-### Skills I Have
+<details open>
+    <summary>Skills I Have</summary>
+</br>
 
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -64,11 +67,17 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46.svg?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+</details>
 
 
- ### Skills I'm Actively Learning
+
+
+<details open>
+    <summary>Skills I'm actively learning</summary>
+
+</br>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
-
+</details>
