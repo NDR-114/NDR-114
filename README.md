@@ -1,4 +1,4 @@
-## Hi, I'm George 👋 &nbsp; ![Static Badge](https://img.shields.io/badge/linkedin-George%20Bennett-blue?style=flat-square&logo=linkedin)
+## Hi, I'm George 👋 &nbsp; [![Static Badge](https://img.shields.io/badge/linkedin-George%20Bennett-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ge0rge/)
 
 
 ### I'm an aspiring software developer with a love for Automation, Generative AI & Robotics | 🧠 🤖
