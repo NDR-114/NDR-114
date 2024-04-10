@@ -54,7 +54,7 @@
     <summary>Accomplishments 🏆</summary>
 </br>
 
-**Codewars**:  [![Codewars](https://www.codewars.com/users/QuantumGeorge/badges/small)](https://www.codewars.com/users/QuantumGeorge) *Now 4 kyu!*
+**Codewars**:  [![Codewars](https://www.codewars.com/users/QuantumGeorge/badges/small)](https://www.codewars.com/users/QuantumGeorge)
 </details>
 </br>
 
