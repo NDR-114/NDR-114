@@ -5,7 +5,7 @@
 
 
 
- *A motivated and dedicated aspiring individual with a strong commitment to technology. Recently completed the Makers Academy Software Development bootcamp, gaining hands-on experience in test-driven development, pair programming, and agile methodologies. Passionate about staying current with industry advancements and continuously expanding my skillset.*
+ *A motivated and dedicated aspiring individual with a strong commitment to technology. Recently completed the Makers Academy Software Development bootcamp, gaining hands-on experience in test-driven development, pair programming, and agile methodologies. Passionate about staying current with industry advancements and continuously expanding my skillset - currently learning Generative AI with Large Language models.*
 
  ___
 
