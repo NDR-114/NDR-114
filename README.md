@@ -47,7 +47,7 @@
 
 - **Google Cloud (Coursera)**: [Introduction to Large Language Models (2024)](https://www.coursera.org/account/accomplishments/verify/9P7HGH5UYREM)
 - **Google (Coursera)**: [Foundations of Cybersecurity (2024)](https://www.coursera.org/account/accomplishments/verify/ESEWAJP8BVR5)
-- **Microsoft**: [Azure AZ900 Fundamentals (2021)](https://learn.microsoft.com/api/credentials/share/en-us/GB-3735/291D4A9BCDCC7B1E?sharingId)
+- **Microsoft**: [Azure AZ900 Fundamentals (2022)](https://learn.microsoft.com/api/credentials/share/en-us/GB-3735/291D4A9BCDCC7B1E?sharingId)
 </details>
 
 <details open>
