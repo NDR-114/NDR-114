@@ -47,7 +47,9 @@
 
 - **Google Cloud (Coursera)**: [Introduction to Large Language Models (2024)](https://www.coursera.org/account/accomplishments/verify/9P7HGH5UYREM)
 - **Google (Coursera)**: [Foundations of Cybersecurity (2024)](https://www.coursera.org/account/accomplishments/verify/ESEWAJP8BVR5)
-- **Microsoft**: [Azure AZ900 Fundamentals (2022)](https://learn.microsoft.com/api/credentials/share/en-us/GB-3735/291D4A9BCDCC7B1E?sharingId)
+- **Microsoft**: [Azure AZ900 Fundamentals (2022)](https://www.coursera.org/learn/generative-ai-with-llms?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_generative-ai-with-llms_deeplearning-ai_FTCOF_learn_country-GB-country-UK&campaignid=20858198605&adgroupid=156245828789&device=c&keyword=generative%20ai%20with%20large%20language%20models&matchtype=b&network=g&devicemodel=&adposition=&creativeid=684297817646&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqndsjy4QEcFOCJt9T7NRlXIQ7WKhU-8Zlz8wD3qYS6RBDCLb3r5MXYIaAk6NEALw_wcB)
+</details>
+- **AWS - DeepLearning.AI**: [Generative AI with Large Language Models (In Progress)](https://learn.microsoft.com/api/credentials/share/en-us/GB-3735/291D4A9BCDCC7B1E?sharingId)
 </details>
 
 <details open>
